@@ -11,10 +11,10 @@ link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.c
 import: https://raw.githubusercontent.com/LiaTemplates/Rextester/master/README.md
 import: https://raw.githubusercontent.com/LiaTemplates/WebDev/master/README.md
 import: https://raw.githubusercontent.com/LiaTemplates/NetSwarm-Simulator/master/README.md
-import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+#import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 
 #### Preview Lia
-<html>
+#<html>
   <head>
     <script type="text/javascript" src="https://liascript.github.io/course/preview-lia.js"></script>
   </head>
